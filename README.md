@@ -4,7 +4,7 @@
 
 ## Description
 FinTrack is a Java desktop application for financial management. It provides features such as user authentication, adding or deleting finance data, managing users, generating reports, and more. The application uses Java Swing GUI and Socket for client-server communication. 
-
+Contributer: <a href="https://github.com/duressa-feyissa">Duresa Fayisa</a>
 ## Getting Started
 To get started with FinTrack, follow the steps below:
 
