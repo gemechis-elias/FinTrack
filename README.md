@@ -9,7 +9,7 @@ FinTrack is a Java desktop application for financial management. It provides fea
 To get started with FinTrack, follow the steps below:
 
 1. Clone the repository:
-```git clone https://github.com/gemechis-elias/FinTrack.git
+```git clone https://github.com/gemechis-elias/FinTrack.git```
 2. Open the project in your preferred Java IDE.
 
 3. Set up the server-side and client-side components:
